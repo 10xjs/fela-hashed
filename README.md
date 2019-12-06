@@ -46,7 +46,7 @@ outputs
 
 ### Configuration
 
-If you are have `devMode` enabled on the renderer, `fela-hashed` will emit verbose descriptive class names.
+If you have `devMode` enabled on the renderer, `fela-hashed` will emit verbose descriptive class names.
 
 ```js
 import {createRenderer} from 'fela';
